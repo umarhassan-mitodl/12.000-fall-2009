@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, structure, a note on Mission classes.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -40,7 +42,7 @@ About 12.000
 
 _12.000 Solving Complex Problems_ is a nine-unit, Fall-semester subject designed to provide freshmen with the opportunity to work as part of an "imagineering" team to design a viable solution to a complex problem that requires an interdisciplinary approach.
 
-Each year's class explores a different problem in detail through the study of complementary case histories and the development of creative solution strategies. The course includes training in Web site development, effective written and oral communication, and team building. Initially developed with major financial support from the {{% resource_link "e7573148-f987-4276-bcee-a52c8a20bdf9" "d'Arbeloff Fund for Excellence in Education" %}}, 12.000 is designed to enhance the freshman experience by helping students develop contexts for other subjects in the sciences and humanities, and by helping them to establish learning communities that include upperclassmen, faculty, MIT alumni, and professionals in science and engineering fields.
+Each year's class explores a different problem in detail through the study of complementary case histories and the development of creative solution strategies. The course includes training in Web site development, effective written and oral communication, and team building. Initially developed with major financial support from the [d'Arbeloff Fund for Excellence in Education](http://web.mit.edu/darbeloff/), 12.000 is designed to enhance the freshman experience by helping students develop contexts for other subjects in the sciences and humanities, and by helping them to establish learning communities that include upperclassmen, faculty, MIT alumni, and professionals in science and engineering fields.
 
 Why Mission?
 ------------
