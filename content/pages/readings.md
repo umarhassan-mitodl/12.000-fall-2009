@@ -22,15 +22,15 @@ Marini, Luigi. _Geological Sequestration of Carbon Dioxide: Thermodynamics, Kine
 
 Streck, Charlotte., et al., eds. _Climate Change and Forests: Emerging Policy and Market Opportunities_. Washington, DC: Brookings Institution Press, 2010. ISBN: 9780815704270.
 
-_[Carbon Dioxide Capture and Storage](http://www.ipcc-wg3.de/publications/special-reports/special-report-on-carbon-dioxide-capture-and-storage)_. Intergovernmental Panel on Climate Change (IPCC), 2005.
+_{{% resource_link "63bf8fdd-3297-4983-8aa6-952c95f70509" "Carbon Dioxide Capture and Storage" %}}_. Intergovernmental Panel on Climate Change (IPCC), 2005.
 
 Web Resources
 -------------
 
-[Understanding and Responding to Climate Change](http://www.preventionweb.net/english/professional/publications/v.php?id=2276) (National Academies). Overview of climate science and policy ramifications; concise report useful as a starting point for in-depth research.
+{{% resource_link "c916fdc7-27fa-4eff-a7f3-e8bd162af6f2" "Understanding and Responding to Climate Change" %}} (National Academies). Overview of climate science and policy ramifications; concise report useful as a starting point for in-depth research.
 
-[Greenhouse Gas Emissions Simulator](http://scripts.mit.edu/~jsterman/climate/master/) (MIT System Dynamics Group). Simple tool for aiding comprehension of climate change dynamics. Interactive simulation of introductory concepts in system dynamics.
+{{% resource_link "b6613ff4-f064-4f1c-a9a7-eea525dfdb16" "Greenhouse Gas Emissions Simulator" %}} (MIT System Dynamics Group). Simple tool for aiding comprehension of climate change dynamics. Interactive simulation of introductory concepts in system dynamics.
 
-[Hard Truths: Facing the Hard Truths about Energy](http://www.npchardtruthsreport.org) (National Petroleum Council). Excellent document; see pages 231-235 (carbon management), and 237-240 (CO{{< sub "2" >}} sequestration). (Under Final 2007 Report, select Download Report, then Chapter Five: Carbon Management.)
+{{% resource_link "f00e50bd-827a-4bad-bd57-6010fa79d8e9" "Hard Truths: Facing the Hard Truths about Energy" %}} (National Petroleum Council). Excellent document; see pages 231-235 (carbon management), and 237-240 (CO{{< sub "2" >}} sequestration). (Under Final 2007 Report, select Download Report, then Chapter Five: Carbon Management.)
 
-[Survey of Energy Resources: Interim Update 2009](http://web.mit.edu/mission/www/m2013/ser_interim_update_2009_final.pdf) (World Energy Council). A country by country interim assessment of resources. Good reference.
+{{% resource_link "d3571b93-ea71-421f-b35b-7e81e2edcd91" "Survey of Energy Resources: Interim Update 2009" %}} (World Energy Council). A country by country interim assessment of resources. Good reference.
