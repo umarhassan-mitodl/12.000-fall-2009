@@ -11,13 +11,13 @@ uid: dc430500-24b7-d73c-a039-993e16bb54a7
 ---
 ## Final Deliverables
 
-[Final Web site](http://igutek.scripts.mit.edu/terrascope)
+{{% resource_link "9ec4fbd4-cfed-4e10-9425-25bd9d0dc2fb" "Final Web site" %}}
 
-[Final presentation](https://igutek.scripts.mit.edu/terrascope/index.php?page=Casestudies)
+{{% resource_link "d10cefc5-a969-4570-8823-7ea90093cade" "Final presentation" %}}
 
 ## Mission 2013 Travel Blog
 
-During spring break, students traveled to Abu Dhabi to explore the world's first carbon-neutral city. The trip was supported by the [Massiah Foundation](http://www.mit.edu/newsoffice/2009/terrascope-award.html). Students reflected on their experiences in the [Mission 2013 Travel Blog](http://mission2013trip.typepad.com/blog/).
+During spring break, students traveled to Abu Dhabi to explore the world's first carbon-neutral city. The trip was supported by the {{% resource_link "7ed8bb6e-54da-4807-a454-1515eb6bc1e9" "Massiah Foundation" %}}. Students reflected on their experiences in the {{% resource_link "44a00e7a-6e13-414f-af6f-c09064f9ee68" "Mission 2013 Travel Blog" %}}.
 
 ## Description of Assignments
 
